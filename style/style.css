@@ -798,7 +798,7 @@ padding-top: 25px;
 .social-icons {
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 20px;
 }
 
 .social-icons a {
